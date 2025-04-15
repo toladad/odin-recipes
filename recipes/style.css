@@ -1,0 +1,51 @@
+
+
+body{
+    background-color: rgba(128, 112, 11,.25);
+    margin:0px
+}
+#title{
+    text-align: center;
+    background-color: rgb(128, 112, 11);
+    margin-top:0px;
+    padding:.5em;
+}
+img{
+    display:block;
+    margin:auto;
+}
+
+ul {
+    list-style:none;
+    margin-left: 20px;
+}
+
+
+
+ol {
+    margin-left: 20px;
+}
+
+.ingredients{
+   margin-left: 20px;
+}
+
+#footer{
+    bottom:0;
+    position: relative;
+    background-color: rgb(128, 112, 11);
+    padding:2em;
+    width:100%;
+    text-align: center;
+   
+
+  }
+
+  a:link {
+    color: rgb(4, 70, 4);
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  
+
