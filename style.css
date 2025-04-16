@@ -3,9 +3,13 @@
     text-align: center;
     padding:0.5em;
     margin:0px;
+    opacity: .75;
 
 }
 
+.inline{
+    display:inline;
+}
 
 ul{
     margin-top:50px;
@@ -29,6 +33,15 @@ a:link {
     background-color: rgb(128, 112, 11);
     height:100px;
     width:100%;
+  }
+
+  #background{
+    top:0;
+    left:0;
+    position:fixed;
+    opacity:.1;
+    height: 1000px;
+    z-index: 2;
   }
   
 
