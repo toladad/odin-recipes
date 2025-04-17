@@ -19,6 +19,8 @@ ul{
 body{
     background-color: rgba(128, 112, 11,.25);
     background-image: url("./images/food_transparent.png");
+    background-repeat: repeat;
+    background-size: 300px;
     margin:0px
 }
 
